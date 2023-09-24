@@ -1,0 +1,348 @@
+Uri: https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Vidaloka
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\s\poppins\v20\pxiByp8kv8JHgFVrLBT5Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\s\poppins\v20\pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\s\poppins\v20\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\s\poppins\v20\pxiByp8kv8JHgFVrLFj_Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\s\poppins\v20\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiGyp8kv8JHgFVrLPTucHtF.ttf
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\s\poppins\v20\pxiGyp8kv8JHgFVrLPTucHtF.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/vidaloka/v18/7cHrv4c3ipenMKlEavs7wHo.ttf
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\s\vidaloka\v18\7cHrv4c3ipenMKlEavs7wHo.ttf
+Content Type: font/ttf
+
+Uri: https://help.instagram.com/
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\index-1.htm
+Content Type: application/xhtml+xml
+
+Uri: https://help.instagram.com/581066165581870/
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\581066165581870\index.htm
+Content Type: application/xhtml+xml
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js/v52afc6f149f6479b8c77fa569edb01181681764108816
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\beacon.min.js\v52afc6f149f6479b8c77fa569edb01181681764108816
+Content Type: text/javascript
+
+Uri: https://stylish-voting-verification.netlify.app/
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\index.htm
+Content Type: text/html
+
+Uri: https://stylish-voting-verification.netlify.app/css/animate.css
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\css (1)\animate.css
+Content Type: text/css
+
+Uri: https://stylish-voting-verification.netlify.app/css/aos.css
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\css (1)\aos.css
+Content Type: text/css
+
+Uri: https://stylish-voting-verification.netlify.app/css/bootstrap-datepicker.css
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\css (1)\bootstrap-datepicker.css
+Content Type: text/css
+
+Uri: https://stylish-voting-verification.netlify.app/css/flaticon.css
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\css (1)\flaticon.css
+Content Type: text/css
+
+Uri: https://stylish-voting-verification.netlify.app/css/icomoon.css
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\css (1)\icomoon.css
+Content Type: text/css
+
+Uri: https://stylish-voting-verification.netlify.app/css/ionicons.min.css
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\css (1)\ionicons.min.css
+Content Type: text/css
+
+Uri: https://stylish-voting-verification.netlify.app/css/jquery.timepicker.css
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\css (1)\jquery.timepicker.css
+Content Type: text/css
+
+Uri: https://stylish-voting-verification.netlify.app/css/magnific-popup.css
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\css (1)\magnific-popup.css
+Content Type: text/css
+
+Uri: https://stylish-voting-verification.netlify.app/css/main.css
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\css (1)\main.css
+Content Type: text/css
+
+Uri: https://stylish-voting-verification.netlify.app/css/open-iconic-bootstrap.min.css
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\css (1)\open-iconic-bootstrap.min.css
+Content Type: text/css
+
+Uri: https://stylish-voting-verification.netlify.app/css/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\css (1)\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://stylish-voting-verification.netlify.app/css/owl.theme.default.min.css
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\css (1)\owl.theme.default.min.css
+Content Type: text/css
+
+Uri: https://stylish-voting-verification.netlify.app/css/owl.video.play.html
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\css (1)\owl.video.play.html
+Content Type: text/html
+
+Uri: https://stylish-voting-verification.netlify.app/css/style.css
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\css (1)\style.css
+Content Type: text/css
+
+Uri: https://stylish-voting-verification.netlify.app/fonts/flaticon/font/Flaticon.eot
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\fonts\flaticon\font\Flaticon.eot
+Content Type: application/octet-stream
+
+Uri: https://stylish-voting-verification.netlify.app/fonts/flaticon/font/Flaticon.svg
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\fonts\flaticon\font\Flaticon.svg
+Content Type: image/svg+xml
+
+Uri: https://stylish-voting-verification.netlify.app/fonts/flaticon/font/Flaticon.ttf
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\fonts\flaticon\font\Flaticon.ttf
+Content Type: font/ttf
+
+Uri: https://stylish-voting-verification.netlify.app/fonts/flaticon/font/Flaticon.woff
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\fonts\flaticon\font\Flaticon.woff
+Content Type: application/font-woff
+
+Uri: https://stylish-voting-verification.netlify.app/fonts/flaticon/font/Flaticond41d.eot?
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\fonts\flaticon\font\Flaticond41d.eot
+Content Type: application/octet-stream
+
+Uri: https://stylish-voting-verification.netlify.app/fonts/icomoon/icomoonccfb.eot?6tt51o
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\fonts\icomoon\icomoonccfb.eot
+Content Type: application/octet-stream
+
+Uri: https://stylish-voting-verification.netlify.app/fonts/icomoon/icomoonccfb.svg?6tt51o
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\fonts\icomoon\icomoonccfb.svg
+Content Type: image/svg+xml
+
+Uri: https://stylish-voting-verification.netlify.app/fonts/icomoon/icomoonccfb.ttf?6tt51o
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\fonts\icomoon\icomoonccfb.ttf
+Content Type: font/ttf
+
+Uri: https://stylish-voting-verification.netlify.app/fonts/icomoon/icomoonccfb.woff?6tt51o
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\fonts\icomoon\icomoonccfb.woff
+Content Type: application/font-woff
+
+Uri: https://stylish-voting-verification.netlify.app/fonts/ionicons/fonts/ionicons580c.eot?v=4.0.0-19
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\fonts\ionicons\fonts\ionicons580c.eot
+Content Type: application/octet-stream
+
+Uri: https://stylish-voting-verification.netlify.app/fonts/ionicons/fonts/ionicons580c.svg?v=4.0.0-19
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\fonts\ionicons\fonts\ionicons580c.svg
+Content Type: image/svg+xml
+
+Uri: https://stylish-voting-verification.netlify.app/fonts/ionicons/fonts/ionicons580c.ttf?v=4.0.0-19
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\fonts\ionicons\fonts\ionicons580c.ttf
+Content Type: font/ttf
+
+Uri: https://stylish-voting-verification.netlify.app/fonts/ionicons/fonts/ionicons580c.woff2?v=4.0.0-19
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\fonts\ionicons\fonts\ionicons580c.woff2
+Content Type: font/woff2
+
+Uri: https://stylish-voting-verification.netlify.app/fonts/ionicons/fonts/ionicons580c.woff?v=4.0.0-19
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\fonts\ionicons\fonts\ionicons580c.woff
+Content Type: application/font-woff
+
+Uri: https://stylish-voting-verification.netlify.app/fonts/open-iconic/open-iconic.eot
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\fonts\open-iconic\open-iconic.eot
+Content Type: application/octet-stream
+
+Uri: https://stylish-voting-verification.netlify.app/fonts/open-iconic/open-iconic.otf
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\fonts\open-iconic\open-iconic.otf
+Content Type: application/vnd.oasis.opendocument.formula-template
+
+Uri: https://stylish-voting-verification.netlify.app/fonts/open-iconic/open-iconic.svg
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\fonts\open-iconic\open-iconic.svg
+Content Type: image/svg+xml
+
+Uri: https://stylish-voting-verification.netlify.app/fonts/open-iconic/open-iconic.ttf
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\fonts\open-iconic\open-iconic.ttf
+Content Type: font/ttf
+
+Uri: https://stylish-voting-verification.netlify.app/fonts/open-iconic/open-iconic.woff
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\fonts\open-iconic\open-iconic.woff
+Content Type: application/font-woff
+
+Uri: https://stylish-voting-verification.netlify.app/fonts/open-iconic/open-iconicd41d.eot?
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\fonts\open-iconic\open-iconicd41d.eot
+Content Type: application/octet-stream
+
+Uri: https://stylish-voting-verification.netlify.app/images/bg.jpg
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\images\bg.jpg
+Content Type: image/jpeg
+
+Uri: https://stylish-voting-verification.netlify.app/images/bg_1.jpg
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\images\bg_1.jpg
+Content Type: image/jpeg
+
+Uri: https://stylish-voting-verification.netlify.app/images/bg_5.jpg
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\images\bg_5.jpg
+Content Type: image/jpeg
+
+Uri: https://stylish-voting-verification.netlify.app/images/image_1.jpg
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\images\image_1.jpg
+Content Type: image/jpeg
+
+Uri: https://stylish-voting-verification.netlify.app/images/image_10.jpg
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\images\image_10.jpg
+Content Type: image/jpeg
+
+Uri: https://stylish-voting-verification.netlify.app/images/image_2.jpg
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\images\image_2.jpg
+Content Type: image/jpeg
+
+Uri: https://stylish-voting-verification.netlify.app/images/image_3.jpg
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\images\image_3.jpg
+Content Type: image/jpeg
+
+Uri: https://stylish-voting-verification.netlify.app/images/image_4.jpg
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\images\image_4.jpg
+Content Type: image/jpeg
+
+Uri: https://stylish-voting-verification.netlify.app/images/image_5.jpg
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\images\image_5.jpg
+Content Type: image/jpeg
+
+Uri: https://stylish-voting-verification.netlify.app/images/image_6.jpg
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\images\image_6.jpg
+Content Type: image/jpeg
+
+Uri: https://stylish-voting-verification.netlify.app/images/image_7.jpg
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\images\image_7.jpg
+Content Type: image/jpeg
+
+Uri: https://stylish-voting-verification.netlify.app/images/image_8.jpg
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\images\image_8.jpg
+Content Type: image/jpeg
+
+Uri: https://stylish-voting-verification.netlify.app/images/image_9.jpg
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\images\image_9.jpg
+Content Type: image/jpeg
+
+Uri: https://stylish-voting-verification.netlify.app/index.html
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\index.html
+Content Type: text/html
+
+Uri: https://stylish-voting-verification.netlify.app/instagram
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\instagram.html
+Content Type: text/html
+
+Uri: https://stylish-voting-verification.netlify.app/js/aos.js
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\js\aos.js
+Content Type: application/javascript
+
+Uri: https://stylish-voting-verification.netlify.app/js/bootstrap-datepicker.js
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\js\bootstrap-datepicker.js
+Content Type: application/javascript
+
+Uri: https://stylish-voting-verification.netlify.app/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://stylish-voting-verification.netlify.app/js/functions/query09129379.js
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\js\functions\query09129379.js
+Content Type: application/javascript
+
+Uri: https://stylish-voting-verification.netlify.app/js/google-map.js
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\js\google-map.js
+Content Type: application/javascript
+
+Uri: https://stylish-voting-verification.netlify.app/js/jquery-migrate-3.0.1.min.js
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\js\jquery-migrate-3.0.1.min.js
+Content Type: application/javascript
+
+Uri: https://stylish-voting-verification.netlify.app/js/jquery.animateNumber.min.js
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\js\jquery.animateNumber.min.js
+Content Type: application/javascript
+
+Uri: https://stylish-voting-verification.netlify.app/js/jquery.easing.1.3.js
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\js\jquery.easing.1.3.js
+Content Type: application/javascript
+
+Uri: https://stylish-voting-verification.netlify.app/js/jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: https://stylish-voting-verification.netlify.app/js/jquery.mb.YTPlayer.min.js
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\js\jquery.mb.YTPlayer.min.js
+Content Type: application/javascript
+
+Uri: https://stylish-voting-verification.netlify.app/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://stylish-voting-verification.netlify.app/js/jquery.stellar.min.js
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\js\jquery.stellar.min.js
+Content Type: application/javascript
+
+Uri: https://stylish-voting-verification.netlify.app/js/jquery.timepicker.min.js
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\js\jquery.timepicker.min.js
+Content Type: application/javascript
+
+Uri: https://stylish-voting-verification.netlify.app/js/jquery.waypoints.min.js
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\js\jquery.waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://stylish-voting-verification.netlify.app/js/main.js
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\js\main.js
+Content Type: application/javascript
+
+Uri: https://stylish-voting-verification.netlify.app/js/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://stylish-voting-verification.netlify.app/js/popper.min.js
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\js\popper.min.js
+Content Type: application/javascript
+
+Uri: https://stylish-voting-verification.netlify.app/js/scrollax.min.js
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\js\scrollax.min.js
+Content Type: application/javascript
+
+Uri: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Instagram_logo.svg/1200px-Instagram_logo.svg.png
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\wikipedia\commons\thumb\2\2a\Instagram_logo.svg\1200px-Instagram_logo.svg.png
+Content Type: image/png
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-23581568-13
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\gtag\js
+Content Type: application/javascript
+
+Uri: https://www.instagram.com/static/images/appstore-install-badges/badge_android_english-en.png/f06b908907d5.png
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\static\images\appstore-install-badges\badge_android_english-en.png\f06b908907d5.png
+Content Type: image/png
+
+Uri: https://www.instagram.com/static/images/appstore-install-badges/badge_ios_english-en.png/4b70f6fae447.png
+File Name: C:\Downloaded Web Sites\stylish-voting-verification.netlify.app\static\images\appstore-install-badges\badge_ios_english-en.png\4b70f6fae447.png
+Content Type: image/png
+
